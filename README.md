@@ -55,7 +55,7 @@ Bad Loan :
 
 Overview of the overview dashboard, showcasing various charts such as monthly trends, regional analysis, loan term analysis, employee length analysis, loan purpose breakdown, and home ownership analysis.
 
-##### DASHBOARD 2 : OVERVIEW
+#### DASHBOARD 2 : OVERVIEW
 
 Description of the details dashboard, highlighting the need for a comprehensive view of loan data and its objectives.
  
@@ -70,6 +70,6 @@ CHARTS
 
 #### PROBLEM STATEMENT
 
-##### DASHBOARD 3: DETAILS
+#### DASHBOARD 3: DETAILS
 
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into loan portfolio, borrower profiles, and loan performance.
