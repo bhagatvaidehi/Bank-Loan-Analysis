@@ -31,7 +31,7 @@ Loan Data : The primary dataset used for this analysis is the "financial_loan.cs
  2. Handling missing values.
  3. Data Cleaning and formatting.
 
-### Problem Statement 
+## Problem Statement 
 
 #### Key Performance Indicators (KPIs) Requirements :
 
@@ -41,7 +41,6 @@ Loan Data : The primary dataset used for this analysis is the "financial_loan.cs
 4. Average Interest Rate:
 5. Average Debt-to-Income Ratio (DTI): 
 
-#### PROBLEM STATEMENT
 
 #### DASHBOARD 1: SUMMARY
 Detailed description of the summary dashboard, including KPIs for good loans vs bad loans and loan status grid view. Good Loan v Bad Loan KPIs
@@ -59,7 +58,6 @@ Bad Loan :
 4. Bad Loan Total Received Amount
 
 
-#### PROBLEM STATEMENT
 
 Overview of the overview dashboard, showcasing various charts such as monthly trends, regional analysis, loan term analysis, employee length analysis, loan purpose breakdown, and home ownership analysis.
 
@@ -76,7 +74,7 @@ CHARTS
 5. Loan Purpose Breakdown (Bar Chart): A visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
 6. Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
 
-#### PROBLEM STATEMENT
+
 
 #### DASHBOARD 3: DETAILS
 
