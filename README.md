@@ -11,10 +11,10 @@ Loan Data : The primary dataset used for this analysis is the "financial_loan.cs
 
 ### Tools 
 
-MS OFFICE/ EXCEL: VERSION 2021
-MS SQL SERVER: 19.0
-SQL SERVER MANAGEMENT STUDIO – 19.0.20209.0
-POWER BI: JUNE 2023 Version 
+- MS OFFICE/ EXCEL: VERSION 2021
+- MS SQL SERVER: 19.0
+- SQL SERVER MANAGEMENT STUDIO – 19.0.20209.0
+- POWER BI: JUNE 2023 Version 
 
 ### Data Cleaning
 
