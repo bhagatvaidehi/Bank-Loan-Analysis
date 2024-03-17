@@ -6,7 +6,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Source](#Data-Source)
-- [Tools])(#Tools)
+- [Tools](#Tools)
 - [Data Cleaning](#Data-Cleaning)
 - [DASHBOARD 1](#DASHBOARD-1)
 
